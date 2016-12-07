@@ -4,7 +4,6 @@ public abstract class Catalog {
 	private int id;
 	private String descr;
 	
-	
 	public Catalog(int id, String descr) {
 		super();
 		this.id = id;
